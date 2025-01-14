@@ -14,7 +14,7 @@ El desarrollo se basó en:
 3. Pruebas de adaptabilidad en diferentes tamaños de pantalla.
 
 ## Despliegue
-El proyecto está disponible en el siguiente enlace: [MaquetacionFLEX_Practica01c](https://tuusuario.github.io/MaquetacionFLEX_Practica01c/)
+El proyecto está disponible en el siguiente enlace: [MaquetacionFLEX_Practica01c](https://senkiin.github.io/MaquetacionFLEX_Practica01c/)
 
 ## Construido con
 - HTML5
@@ -24,10 +24,10 @@ El proyecto está disponible en el siguiente enlace: [MaquetacionFLEX_Practica01
 Este es el lanzamiento inicial (v1.0).
 
 ## Autores
-- **Tu Nombre** - [GitHub](https://github.com/tuusuario)
+- **Tu Nombre** - [GitHub](https://github.com/senkiin)
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Recursos Adicionales
-- Página del proyecto en GitHub: [Repositorio en GitHub](https://github.com/tuusuario/MaquetacionFLEX_Practica01c)
+- Página del proyecto en GitHub: [Repositorio en GitHub](https://github.com/senkiin/MaquetacionFLEX_Practica01c.git)
