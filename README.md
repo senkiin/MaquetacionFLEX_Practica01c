@@ -14,7 +14,7 @@ El desarrollo se basó en:
 3. Pruebas de adaptabilidad en diferentes tamaños de pantalla.
 
 ## Despliegue
-El proyecto está disponible en el siguiente enlace: [MaquetacionFLEX_Practica01c](https://senkiin.github.io/MaquetacionFLEX_Practica01c/)
+El proyecto está disponible en el siguiente enlace: [MaquetacionFLEX_Practica01c](https://github.com/senkiin/MaquetacionGRID_Practica01.git/)
 
 ## Construido con
 - HTML5
